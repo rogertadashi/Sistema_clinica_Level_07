@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/01 21:09:02.000.557,=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/04 18:44:37.000.499,=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/04 18:45:31.000.827,C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\UnitPrincipal.pas=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/04 18:45:31.000.827,C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\UnitPrincipal.dfm=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/04 18:45:47.000.229,C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\Clinica.dproj=C:\Users\royok\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/07/05 01:26:42.000.588,=C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\Unit2.pas</Transaction>
+    <Transaction>2024/07/05 01:27:19.000.948,C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\Unit2.pas=C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\UnitCadastroPaciente.pas</Transaction>
+    <Transaction>2024/07/05 01:27:19.000.948,C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\Unit2.dfm=C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\UnitCadastroPaciente.dfm</Transaction>
+    <Transaction>2024/07/05 01:27:38.000.346,=C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\Unit3.pas</Transaction>
+    <Transaction>2024/07/05 01:28:01.000.855,C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\Unit3.pas=C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\UnitCadastroAgendamentos.pas</Transaction>
+    <Transaction>2024/07/05 01:28:01.000.855,C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\Unit3.dfm=C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\UnitCadastroAgendamentos.dfm</Transaction>
+    <Transaction>2024/07/05 18:40:33.000.044,=C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\Unit1.pas</Transaction>
+    <Transaction>2024/07/05 18:53:53.000.799,=C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\Unit1.pas</Transaction>
+    <Transaction>2024/07/05 18:54:41.000.121,=C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\Unit1.pas</Transaction>
+    <Transaction>2024/07/05 19:02:11.000.908,C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\Unit1.pas=C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\UnitDataModule.pas</Transaction>
+    <Transaction>2024/07/05 19:02:11.000.908,C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\Unit1.dfm=C:\Users\royok\OneDrive\Área de Trabalho\Sistema_clinica\UnitDataModule.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

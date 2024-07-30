@@ -1,0 +1,42 @@
+object DataModule1: TDataModule1
+  Height = 480
+  Width = 640
+  object Conexao: TFDConnection
+    Params.Strings = (
+      'Database=clinica'
+      'User_Name=root'
+      'DriverID=MySQL')
+    Connected = True
+    LoginPrompt = False
+    Left = 88
+    Top = 136
+  end
+  object tb_paciente: TFDTable
+    Active = True
+    IndexFieldNames = 'id'
+    Connection = Conexao
+    ResourceOptions.AssignedValues = [rvEscapeExpand]
+    TableName = 'clinica.paciente'
+    Left = 272
+    Top = 96
+  end
+  object tb_agendamento: TFDTable
+    Active = True
+    IndexFieldNames = 'id'
+    Connection = Conexao
+    ResourceOptions.AssignedValues = [rvEscapeExpand]
+    TableName = 'clinica.agendamento'
+    Left = 472
+    Top = 96
+  end
+  object DataSource_paciente: TDataSource
+    DataSet = tb_paciente
+    Left = 280
+    Top = 176
+  end
+  object DataSource_agendamento: TDataSource
+    DataSet = tb_agendamento
+    Left = 480
+    Top = 192
+  end
+end
